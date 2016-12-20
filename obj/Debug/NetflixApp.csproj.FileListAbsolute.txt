@@ -1,0 +1,13 @@
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.SubForm.resources
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
+C:\Users\Oscar\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\FALL 2015\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\Oscar\Desktop\FALL 2015\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\Oscar\Desktop\FALL 2015\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
